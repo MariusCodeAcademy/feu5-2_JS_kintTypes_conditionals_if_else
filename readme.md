@@ -6,3 +6,5 @@
 4. padaryti kad priklausomai nuo metu programa parasytu "po 2000" arba 'pries 2000'
    pvz 1900 => pries 2000, jei 2020 => "po 2000".
    4.1 isbandyti su keletu skaiciu
+
+5. parasyti programa kuri atspausdintu kokio tipo reiksme (galimi tipai, skaicius, stringas, boolean)
