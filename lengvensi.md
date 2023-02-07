@@ -13,3 +13,8 @@
    2.4. sudeti
    mazdaug tokia forma: "jus ivedete 5 ir 7, ju sandauga yra 35" ir tt
    2.5. (sunkesne)jei ivestas ne skaicius pranesam apie tai vartotojui
+
+3. paprasyti vartotojo ivesti skaiciu nuo 0 iki 500. atspausdinti konsoleje
+   3.1 ar skaiciu yra lyginis
+   3.2 ar skaiius lygiai dalinasi is 4
+   3.3. ar skaicius yra didesnis uz 250
