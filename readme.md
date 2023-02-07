@@ -7,4 +7,4 @@
    pvz 1900 => pries 2000, jei 2020 => "po 2000".
    4.1 isbandyti su keletu skaiciu
 
-5. parasyti programa kuri atspausdintu kokio tipo reiksme (galimi tipai, skaicius, stringas, boolean)
+5. Sukurti kintamaji, ir priskirti reiksme, parasyti programa kuri atspausdintu kokio tipo reiksme (galimi tipai, skaicius, stringas, boolean)

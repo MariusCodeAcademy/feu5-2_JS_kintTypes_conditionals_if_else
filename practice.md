@@ -25,7 +25,9 @@
 - name priskirkite tekstą kurį vartotojas įveda su prompt()
 - Atspausdinkite viską konsolėje, pvz.: “Tomas yra gimęs gegužės 12”
 
-### 4. Parašykite programą, kuri:
+4. Sukurti kintamaji, ir priskirti reiksme, parasyti programa kuri atspausdintu kokio tipo reiksme (galimi tipai, skaicius, stringas, boolean)
+
+### 5. Parašykite programą, kuri:
 
 - Paprašyti įvesti prisijungimo vardą ir slaptažodį
 - Jei vardas admin, slaptažodis turi būti “master”
@@ -34,7 +36,7 @@
 - “Sveiki, admin” arba “Neteisingas slaptažodis”
 - Jei neiįvedė nieko - “Viso gero!”
 
-### 5 Sukurkite kodą, kuris sukurs penkis atsitiktinius skaičius (is skaidriu)
+### 6 Sukurkite kodą, kuris sukurs penkis atsitiktinius skaičius (is skaidriu)
 
 1. (skaičiai negali būti didesni nei 10) ir juos priskirs kintamiesiems, kurie turi iki dviejų skaičių po kablelio;
 2. Tada suraskite ir atspausdinkite, kuris iš sukurtų skaičių yra:
