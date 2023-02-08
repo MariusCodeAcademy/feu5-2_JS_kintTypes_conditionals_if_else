@@ -55,7 +55,7 @@ console.log('uzdIf2.js file was loaded');
 */
 
 {
-  console.group('3. Deklaruokite du kintamuosius:');
+  console.groupCollapsed('3. Deklaruokite du kintamuosius:');
 
   let birthDay = 'gegužės 12';
   let username = 'Jack';
@@ -64,5 +64,26 @@ console.log('uzdIf2.js file was loaded');
   let sentence = `${username} yra gimęs ${birthDay}`;
   console.log(sentence);
 
-  console.groupEnd;
+  console.groupEnd();
+}
+
+/* 
+4. Sukurti kintamaji, ir priskirti reiksme, parasyti programa kuri atspausdintu kokio tipo reiksme (galimi tipai, skaicius, stringas, boolean)
+*/
+{
+  console.group('4. kokio tipo reiksme');
+
+  let myVar = null;
+
+  if (typeof myVar === 'number') {
+    console.log(`kintamasis ${myVar} yra skaiciaus tipo`);
+  } else if (typeof myVar === 'string') {
+    console.log(`kintamasis ${myVar} yra stringo tipo`);
+  } else if (typeof myVar === 'boolean') {
+    console.log(`kintamasis ${myVar} yra boolean tipo`);
+  } else {
+    console.log('kazkas ne taip, bandyti veliau dar karta');
+  }
+
+  console.groupEnd();
 }
